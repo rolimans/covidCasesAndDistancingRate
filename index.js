@@ -474,4 +474,4 @@ const processCasesCleanBounded = async () => {
     fs.writeFileSync("database.json", JSON.stringify(frame));
 }
 
-// processCasesCleanBounded()
+// processCasesClean()

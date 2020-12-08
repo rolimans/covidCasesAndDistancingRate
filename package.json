@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Eduardo Amaral and Vivian Kiyomi",
+  "license": "GPL-3.0",
   "dependencies": {
     "@elastic/elasticsearch": "^7.10.0",
     "@types/elasticsearch": "^5.0.37",
