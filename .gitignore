@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+cases.json
+casesClean.json
+casesCleanBounded.json

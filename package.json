@@ -1,0 +1,19 @@
+{
+  "name": "coviddatabase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.10.0",
+    "@types/elasticsearch": "^5.0.37",
+    "JSONStream": "^1.3.5",
+    "moment": "^2.29.1",
+    "neat-csv": "^5.2.0",
+    "string-similarity": "^4.0.3"
+  }
+}
